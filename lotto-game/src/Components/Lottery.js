@@ -4,6 +4,7 @@ import Ball from './Ball';
 
 
 class Lottery extends Component {
+    
     static defaultProps = {
         title: 'Lotto',
         numBalls: 6,

@@ -13,6 +13,7 @@ class Ball extends Component {
 
         return (
             <div className="Ball"> 
+            
                 {this.props.num}
             </div>
         )
