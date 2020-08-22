@@ -1,7 +1,5 @@
 import React from 'react';
-import Ball from './Components/Ball';
 import Lottery from './Components/Lottery';
-
 import './App.css';
 
 function App() {
